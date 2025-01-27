@@ -23,7 +23,5 @@ The **Secret Friend App** is a simple practice alura project that lets users ran
 
 ## Live Demo
 
-You can view the live application here: [Secret Friend App](https://your-username.github.io/secret-friend-app)
-
-> Replace `your-username` with your GitHub username and `secret-friend-app` with the repository name.
+You can view the live application here: [Secret Friend App]([https://your-username.github.io/secret-friend-app](https://julianasantosss.github.io/secret-friend-alura-challenge/))
 
